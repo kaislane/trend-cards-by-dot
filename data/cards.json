@@ -1,0 +1,1767 @@
+{
+    "cards": [
+        {
+            "id": "01",
+            "title": "Geometric",
+            "image": "./img/01-geometric.jpg",
+            "description": "Geometric es una exploración de la forma básica. Esta tendencia podría partir de una conciencia Bauhaus, llevándola a un plano más complejo y tecnológico. En Geometric, la propia forma está antes de su funcionalidad. El diseño se despoja de conceptos como la ergonomía, la honestidad y la simplicidad y recrea productos exagerados y prominentes que acaban resultando tan estimulantes como admirables.<br><br>En esta tendencia, destacan conceptos como la reflexión de la luz y el sentido del tacto, ambos detonantes de esa experimentación formal.",
+            "industries": [
+                "Arquitectura",
+                "Industria de la moda",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Nike",
+                "Beats",
+                "Lady Gaga",
+                "Issey Miyake"
+            ],
+            "related": [
+                {
+                    "id": "02",
+                    "title": "Faceted"
+                },
+                {
+                    "id": "29",
+                    "title": "Pompeian Tiles"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "02",
+            "title": "Faceted",
+            "image": "./img/02-faceted.jpg",
+            "description": "El facetado de productos ha sido una de las tendencias más nítidas de los últimos años. Aprovechar la arista como recurso formal y gráfico para expresar masculinidad y agresividad ha calado en varios sectores como el automovilístico, la arquitectura y sorprendentemente en otros mercados más sensibles como la joyería o el packaging.<br><br>Esta revolución de las facetas ha demostrado la adaptabilidad de los mercados hacia nuevas tendencias formales. Es especialmente inspiradora la paradoja de usar formas fracturadas en productos que transmiten solidez, robustez y energía.",
+            "industries": [
+                "Arquitectura",
+                "Industria automotriz",
+                "Joyas y accesorios"
+            ],
+            "trendsetters": [
+                "MG Motor",
+                "De'Longhi",
+                "Lamborghini",
+                "Novum"
+            ],
+            "related": [
+                {
+                    "id": "10",
+                    "title": "Faceted Fluence"
+                },
+                {
+                    "id": "15",
+                    "title": "Forced Waves"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "03",
+            "title": "Natural Pattern",
+            "image": "./img/03-natural-pattern.jpg",
+            "description": "Se observa una repetición creciente en la fusión de motivos relacionados con la naturaleza con productos tecnológicos y arquitectura moderna. Las estructuras de red (Web Frame) que pueden encontrarse en lugares tan distintos de la naturaleza como en las hojas de un árbol o la gastronomía molecular, aportan elasticidad y modernismo, relacionándose en muchos de los productos con la cualidad de absorber impactos.<br><br>Una tendencia con gran alcance en el diseño textil deportivo y el mundo del motor.",
+            "industries": [
+                "Industria deportiva",
+                "Industria automotriz",
+                "Iluminación"
+            ],
+            "trendsetters": [
+                "Yves Béhar",
+                "Garmont",
+                "Bouroullec",
+                "Citroën"
+            ],
+            "related": [
+                {
+                    "id": "16",
+                    "title": "Subnature"
+                },
+                {
+                    "id": "19",
+                    "title": "Biomateria"
+                },
+                {
+                    "id": "59",
+                    "title": "Biophilia"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "04",
+            "title": "Anverse Reverse",
+            "image": "./img/04-anverse-reverse.jpg",
+            "description": "La tendencia Anverse Reverse trata el contraste entre dos partes físicas de un producto como elemento diferenciador del conjunto. El juego entre diferentes texturas y materiales antónimos, añade personalidad y logra una doble visión.<br><br>Destacan además, los juegos perceptivos en cada una de las partes, usando el color como recurso para la vista, y los materiales para el tacto. Se observa la repetición de un patrón de sobriedad en las partes expuestas de los productos, y colores intensos contrastando en las partes internas. Esta combinación de colores potentes enfrentados a neutros, son habituales en conceptos de productos prospectivos.",
+            "industries": [
+                "Mobiliario",
+                "Electrónica",
+                "Iluminación"
+            ],
+            "trendsetters": [
+                "S+arck",
+                "Incase",
+                "Nike",
+                "Marc Newson"
+            ],
+            "related": [
+                {
+                    "id": "28",
+                    "title": "Black & Copper"
+                },
+                {
+                    "id": "30",
+                    "title": "Flooding"
+                },
+                {
+                    "id": "46",
+                    "title": "Booleans"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "05",
+            "title": "Black Game",
+            "image": "./img/05-black-game.jpg",
+            "description": "Nuevos productos aprovechan los acabados Mate/Brillo del negro para crear diferentes lecturas con la luz. El uso del negro para referirse a la oscuridad ha llevado a los diseñadores de productos a crear oscuridades en los mismos, omitiendo diferencias entre componentes, jugando a dobles lecturas y tiñendo las marcas, llevándolas a un plano irrelevante.<br><br>Pese a ser un color habitualmente relacionado con el luto (en occidente), los juegos con el negro han alcanzado sectores hace años impensables como el sector deportivo (bicicletas, ropa, etc.) o artículos relacionados con las tecnologías, que tanto recurrían al color como reclamo.",
+            "industries": [
+                "Electrónica",
+                "Joyas y accesorios",
+                "Industria deportiva"
+            ],
+            "trendsetters": [
+                "Nixon",
+                "Mini",
+                "HP",
+                "Leica"
+            ],
+            "related": [
+                {
+                    "id": "12",
+                    "title": "Total White"
+                },
+                {
+                    "id": "28",
+                    "title": "Black & Copper"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "06",
+            "title": "Multilayer",
+            "image": "./img/06-multilayer.jpg",
+            "description": "Nuevos movimientos industriales como la impresión 3D y los software que facilitan la aceleración en el diseño de las fases de prototipado y producción, han generado una imprevisible tendencia formal en productos del hogar y arquitecturas: las piezas multicapa.<br><br>Constituidas en piezas similares solapadas, se forman conjuntos donde, a través de las mismas, puede verse el interior de los productos o incluso dibujar unas líneas gráficas fluidas a través de los perfiles de las capas.",
+            "industries": [
+                "Industria automotriz",
+                "Arquitectura",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "BMW",
+                "Audi",
+                "Nike",
+                "Y-3"
+            ],
+            "related": [
+                {
+                    "id": "24",
+                    "title": "Fluency"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "07",
+            "title": "Modularity",
+            "image": "./img/07-modularity.jpg",
+            "description": "La modularidad siempre ha sido una característica importante para adaptar los productos a la demanda existente. Sin embargo, Modularity es un paso más hacia lograr una forma única que, ensamblada junto a otras exactas, forman productos de gran utilidad y que esconden su verdadera composición.<br><br>Lograr productos de esta tendencia requiere un trabajo de simplificación extrema para llegar al elemento unitario. Después, en su aplicación se tiende a la exageración y al exceso. Es especialmente admirable el trabajo de los hermanos Bouroullec creando estructuras formadas por elementos unitarios.",
+            "industries": [
+                "Diseño de interiores",
+                "Mobiliario",
+                "Iluminación"
+            ],
+            "trendsetters": [
+                "Lego",
+                "Electrolux",
+                "Bouroullec",
+                "Nendo"
+            ],
+            "related": [
+                {
+                    "id": "35",
+                    "title": "Order Obsession"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "08",
+            "title": "Re-Braun",
+            "image": "./img/08-re-braun.jpg",
+            "description": "El iconismo y respeto hacia Dieter Rams y sus principios de diseño racional por parte del sector del diseño. La influencia de su decálogo en el diseño de nuevos conceptos de producto. Atención máxima por los detalles, la búsqueda de una estética universal y, sobre todo, la honestidad dominan la tendencia. Marcas como Apple o Leica han sido reconocidos seguidores de estas líneas formales, y tras su éxito, otros sectores como la moda o el packaging defienden los mismos códigos.<br><br>Es especialmente inspirador en esta tendencia observar cómo, al perseguir una belleza universal, se establece un punto de contacto entre el diseño occidental y el diseño japonés.",
+            "industries": [
+                "Electrónica",
+                "Industria de la moda",
+                "Packaging"
+            ],
+            "trendsetters": [
+                "Apple",
+                "Leica",
+                "Tokujin Yoshioka",
+                "Camper"
+            ],
+            "related": [
+                {
+                    "id": "12",
+                    "title": "Total White"
+                },
+                {
+                    "id": "13",
+                    "title": "Heritagism"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "09",
+            "title": "Material Confussion",
+            "image": "./img/09-material-confussion.jpg",
+            "description": "La presente tendencia plantea un desafío a la industria productiva. Métodos de fabricación avanzados y lúdicos procesos creativos re-imaginan los materiales y la percepción de las personas. Es significativo el poder de esta corriente para llevar a los usuarios a interactuar con los productos, atraídos por la incertidumbre y el factor sorpresa, fuertes detonantes para la compra. Materiales líquidos durante su procesado, como el aluminio o el microcemento, son los que abren más posibilidades. Un recurso introducido desde el sector del arte que se dirige a un entorno urbano y público a través de nuevas arquitecturas y piezas de mobiliario.",
+            "industries": [
+                "Mobiliario",
+                "Arquitectura",
+                "Arte"
+            ],
+            "trendsetters": [
+                "Jeff Koons",
+                "Kartell",
+                "Nendo",
+                "Essey"
+            ],
+            "related": [
+                {
+                    "id": "52",
+                    "title": "Material Conversations"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "10",
+            "title": "Faceted Fluence",
+            "image": "./img/10-faceted-fluence.jpg",
+            "description": "Lo más característico de Faceted Fluence es el contraste de superficies orgánicas, rotas mediante aristas curvas pronunciadas. La radicalización de estas aristas es un recurso utilizado por marcas de automóviles como BMW o Lexus para enfatizar la gama de un producto.<br><br>Gracias a estos códigos formales, se puede combinar la ergonomía visual y adaptabilidad de las formas más orgánicas con el carácter y personalidad característicos de los cambios radicales de planos complejos.",
+            "industries": [
+                "Industria automotriz",
+                "Arquitectura",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Philips",
+                "Zaha Hadid Architects",
+                "POC",
+                "BMW"
+            ],
+            "related": [
+                {
+                    "id": "02",
+                    "title": "Faceted"
+                },
+                {
+                    "id": "24",
+                    "title": "Fluency"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "11",
+            "title": "CHNN",
+            "image": "./img/11-chnn.jpg",
+            "description": "La tendencia CHNN (Cold + Hot + Neutral + Neutral) aparece tras la repetición de este patrón en nuevas gamas de productos en el mercado. CHNN se lleva a cabo con contrastes entre el rojo coral como protagonista de la gama caliente, los azules como tonos fríos, y a su vez dos componentes neutros.<br><br>Una nueva cuatricomía, considerable en productos electrónicos por ser una combinación que puede transmitir caracteres de sobriedad y energía simultáneamente. Swatch o HTC han sido las marcas que antes han descubierto esta cuatricomía en su implantación al mercado, logrando una gestión perfecta de las ventas de cada elemento.",
+            "industries": [
+                "Electrónica",
+                "Joyas y accesorios",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Swatch",
+                "New Balance",
+                "Polaroid",
+                "HTC"
+            ],
+            "related": [
+                {
+                    "id": "32",
+                    "title": "Monochrome"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "12",
+            "title": "Total White",
+            "image": "./img/12-total-white.jpg",
+            "description": "Total White es una apuesta por el diseño del propio producto. Sólo aquellos que logran la excelencia en el diseño y la atención por los detalles despojan al producto de colores, sin perder protagonismo. Aunque está vinculado al minimalismo, los productos que siguen esta tendencia no son necesariamente simplistas o racionales. Todos ellos son, sin embargo, disruptivos para el sector en el que son propuestos.<br><br>Destacamos los sectores del packaging, la industria de la moda y el mobiliario, por ser capaces de proyectar a través de esta tendencia identidad y orgullo de marca.",
+            "industries": [
+                "Packaging",
+                "Industria de la moda",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Plus Minus Zero",
+                "COS",
+                "Electrolux",
+                "Nixon"
+            ],
+            "related": [
+                {
+                    "id": "05",
+                    "title": "Black Game"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "13",
+            "title": "Heritagism",
+            "image": "./img/13-heritagism.jpg",
+            "description": "Heritagism es precisamente la provocación en nuevos productos, de las cualidades y calidades para que se conviertan en vínculos intergeneracionales. Para ello, cada vez más empresas seleccionan materiales nobles como la madera, los cueros, el corcho o fieltros naturales, para crear diseños atemporales convirtiéndolos en tendencia. Esta contradicción hace que los productos tengan vestigios del pasado, en diseños más renovados.<br><br>Quizás sea una respuesta al número creciente de usuarios que permanecen atentos a las últimas novedades del mercado, pero que buscan un vínculo a largo plazo con sus productos.",
+            "industries": [
+                "Joyas y accesorios",
+                "Equipamiento doméstico",
+                "Accesorios de viaje"
+            ],
+            "trendsetters": [
+                "Canon",
+                "Campagnolo",
+                "BMW",
+                "Hermès Paris"
+            ],
+            "related": [
+                {
+                    "id": "08",
+                    "title": "Re-Braun"
+                },
+                {
+                    "id": "39",
+                    "title": "Anachronism"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "14",
+            "title": "Golden Luxury",
+            "image": "./img/14-golden-luxury.jpg",
+            "description": "El metal más preciado ha estado siempre ligado a la riqueza. No es de extrañar que nuevos productos exclusivos y ediciones de lujo utilicen el dorado como único elemento de color. Si lo es, en cambio, si hablamos de ciertos sectores como el deportivo o la electrónica, acostumbrados a explicitar el contenido tecnológico de los productos para mostrar sus gamas premium.<br><br>En estos casos, se repite un patrón muy centrado en llamar la atención en el propio producto (o de alguno de sus detalles), perfilando con envases completamente negros mate.",
+            "industries": [
+                "Electrónica",
+                "Industria deportiva",
+                "Artículos de lujo"
+            ],
+            "trendsetters": [
+                "Apple",
+                "Nike",
+                "Smeg",
+                "Lacie"
+            ],
+            "related": [
+                {
+                    "id": "05",
+                    "title": "Black Game"
+                },
+                {
+                    "id": "12",
+                    "title": "Total White"
+                },
+                {
+                    "id": "28",
+                    "title": "Black & Copper"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "15",
+            "title": "Forced Waves",
+            "image": "./img/15-forced-waves.jpg",
+            "description": "Las formas curvilíneas están fuertemente ligadas a las cualidades femeninas. Su uso, habitualmente, trata de suavizar, sensibilizar y difuminar geometrías, pero en Forced Waves, nos encontramos con el propósito contrario.<br><br>Provocar curvas para reforzar formas de los productos y la iteración de geometrías en diferentes planos para reforzar el carácter de marca. Una tendencia que aporta a los productos solidez y vigorosidad, códigos que han sabido leer marcas como Mazda o Toyota, proponiendo diseños afilados y masculinos mediante el uso de formas curvas.",
+            "industries": [
+                "Industria automotriz",
+                "Industria deportiva"
+            ],
+            "trendsetters": [
+                "Mazda",
+                "Toyota",
+                "Quattro",
+                "Mercedes-Benz"
+            ],
+            "related": [
+                {
+                    "id": "02",
+                    "title": "Faceted"
+                },
+                {
+                    "id": "10",
+                    "title": "Faceted Fluence"
+                },
+                {
+                    "id": "24",
+                    "title": "Fluency"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "16",
+            "title": "Subnature",
+            "image": "./img/16-subnature.jpg",
+            "description": "Subnature es una búsqueda de nuevos materiales y texturas inspiradas en el mundo submarino y la diversidad que en él se recrea. Un estímulo multisensorial, donde de forma natural, el usuario encuentra el verdadero confort a través de los sentidos. Así, el tacto es protagonista gracias a materiales suaves, hidrófugos y con cuidadas prominencias en detalles.<br><br>Varios materiales gomosos imitan la suavidad de las anémonas y las geometrías aleatorias particulares de los corales y demás flora marina. Esta tendencia se aprecia también en sistemas de iluminación orgánicos gracias a una técnica novedosa como la incorporación de fibra óptica sobre textiles.",
+            "industries": [
+                "Diseño de interiores",
+                "Industria de la moda",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Elie Saab",
+                "Iris Van Herpen",
+                "Chanel",
+                "Ross Lovegrove"
+            ],
+            "related": [
+                {
+                    "id": "03",
+                    "title": "Natural Pattern"
+                },
+                {
+                    "id": "19",
+                    "title": "Biomateria"
+                },
+                {
+                    "id": "59",
+                    "title": "Biophilia"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "17",
+            "title": "Gesturize",
+            "image": "./img/17-gesturize.jpg",
+            "description": "La tendencia Gesturize se centra en aportar a los productos una componente estética relacionada con su modo de uso. De esta forma aparecen curiosas solapas y aberturas en armarios que parecen abrirse o dobleces impensables en materiales robustos. “Gesturize” aporta personalidad, humanidad y cotidianidad a los productos, centrando la atención en pequeños detalles. Destacamos la efectividad de esta tendencia para su aplicación en productos de uso regular como la electrónica o el packaging. Este recurso acorta los tiempos de familiarización entre los productos y las personas, aumentando considerablemente el éxito en la interacción persona-producto.",
+            "industries": [
+                "Electrónica",
+                "Mobiliario",
+                "Packaging"
+            ],
+            "trendsetters": [
+                "Roca",
+                "Normann Copenhagen",
+                "Marset",
+                "Graff"
+            ],
+            "related": [
+                {
+                    "id": "20",
+                    "title": "Torsion"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "18",
+            "title": "Burning Disruption",
+            "image": "./img/18-burning-disruption.jpg",
+            "description": "Burning Disruption busca la inspiración en reacciones naturales de fuerza incalculable como los volcanes. Especialmente estimulante para el diseño de productos donde se busca la robustez, vigorosidad y potencia. La recuperación de la lava basáltica como material constructivo, patrones disruptivos e irregulares que imitan las formaciones pétreas, la recreación del fuego en estampados textiles e incluso el uso de un naranja rojizo en pequeños detalles del producto. Se centra en el pequeño detalle como aspecto diferenciador del conjunto, enfrentando grandes contrastes de color y calidades mate/brillo. No olvida el uso de la iluminación para transmitir las características descritas.",
+            "industries": [
+                "Industria automotriz",
+                "Mobiliario",
+                "Iluminación"
+            ],
+            "trendsetters": [
+                "Elie Saab",
+                "Philips",
+                "Renault",
+                "Y-3"
+            ],
+            "related": [
+                {
+                    "id": "05",
+                    "title": "Black Game"
+                },
+                {
+                    "id": "28",
+                    "title": "Black & Copper"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "19",
+            "title": "Biomateria",
+            "image": "./img/19-biomateria.jpg",
+            "description": "La naturaleza y su diversidad ha sido siempre uno de los estímulos más recurrentes para los diseñadores. La reproducción de estructuras moleculares, formas orgánicas y redes microscópicas convierten los productos en cuerpos vivos. El uso de esta tendencia se repite en productos que quieren ser parte de la naturaleza, obviando por completo las bondades tecnológicas que pudieran tener.<br><br>El diseñador Ross Lovegrove y marcas como Nike o Mercedes-Benz son abanderados de esta tendencia, en cada trabajo y concepto realizado.",
+            "industries": [
+                "Biomecánica",
+                "Industria deportiva",
+                "Diseño de interiores"
+            ],
+            "trendsetters": [
+                "Ross Lovegrove",
+                "Nike",
+                "Garmont",
+                "Alexander McQueen"
+            ],
+            "related": [
+                {
+                    "id": "03",
+                    "title": "Natural Pattern"
+                },
+                {
+                    "id": "16",
+                    "title": "Subnature"
+                },
+                {
+                    "id": "59",
+                    "title": "Biophilia"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "20",
+            "title": "Torsion",
+            "image": "./img/20-torsion.jpg",
+            "description": "La resistencia mecánica de los materiales también puede ser la fuente de inspiración para nuevas estructuras y formas de productos. Es el caso de Torsion, donde los cuerpos se flexionan creando giros inesperados que transmiten esfuerzo y elasticidad. Las caras de un prisma se alternan y grandes edificios parecen modificados en un último momento por la acción de un esfuerzo de torsión.<br><br>Es especialmente llamativa la introducción de esta tendencia desde los países asiáticos, donde estos códigos formales se han visto en los últimos diseños de automóviles Mazda o grandes estructuras arquitectónicas proyectadas para Japón.",
+            "industries": [
+                "Industria automotriz",
+                "Electrónica",
+                "Arquitectura"
+            ],
+            "trendsetters": [
+                "Mazda",
+                "Calatrava Architecture",
+                "Ora-ïto",
+                "Zaha Hadid Architects"
+            ],
+            "related": [
+                {
+                    "id": "17",
+                    "title": "Gesturize"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "21",
+            "title": "Haptic",
+            "image": "./img/21-haptic.jpg",
+            "description": "Superficies gomosas, colores intensos y guiños a la infancia en productos de uso adulto. El mercado ha sabido reconocer un cambio generacional en el que se buscan valores divertidos y experimentales. Haptic habla de todos aquellos consumibles o herramientas que pueden manipularse, sentirse y disfrutarse a través del tacto, el protagonista.<br><br>Es interesante la relación que se establece entre la experimentación y el sentido del tacto con la infancia, y posteriormente la traslación de esos códigos formales a un producto adulto. Podría tratarse de una técnica para lograr nuevas y disyuntivas tipologías de productos.",
+            "industries": [
+                "Juguetes sexuales",
+                "Equipamiento doméstico",
+                "Electrónica"
+            ],
+            "trendsetters": [
+                "Lékué",
+                "Incase",
+                "Bodum",
+                "Lelo"
+            ],
+            "related": [
+                {
+                    "id": "08",
+                    "title": "Re-Braun"
+                },
+                {
+                    "id": "13",
+                    "title": "Heritagism"
+                },
+                {
+                    "id": "32",
+                    "title": "Monochrome"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "22",
+            "title": "Gradient Mass",
+            "image": "./img/22-gradient-mass.jpg",
+            "description": "Degradados de color con bordes difusos, aplicados a gráficas o productos para transmitir energía e innovación. Varias marcas aprovechan para usar un gradiente de colores como marca corporativa, frente a la selección de un único color. Esto supone un avance significativo en el reconocimiento de la marca, y el uso del color de forma protagonista, de forma que se puede hacer un vínculo muy directo entre la marca y los valores inherentes a los propios colores.<br><br>De este modo, puede decirse que los productos, gráficas y arquitectura que aplican esta tendencia, desean trabajar los valores intangibles de una forma evocadora.",
+            "industries": [
+                "Industria de la moda",
+                "Packaging",
+                "Bienes de consumo"
+            ],
+            "trendsetters": [
+                "Elie Saab",
+                "Nike",
+                "Fred Perry",
+                "Nixon"
+            ],
+            "related": [
+                {
+                    "id": "04",
+                    "title": "Anverse Reverse"
+                },
+                {
+                    "id": "58",
+                    "title": "Heatmap"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "23",
+            "title": "Dots",
+            "image": "./img/23-dots.jpg",
+            "description": "Dots habla del uso de puntos para generar composiciones planas. En esta tendencia se destacan la creación de halftones para simular degradados, a través de la diferencia de radios. Esta técnica ha sido recreada en arquitectura y diseño de producto, aprovechando partes relacionadas con la ventilación de componentes internos.<br><br>De este modo, queda de manifiesto el esfuerzo de diseñadores para trabajar y evolucionar los productos a través de sus requerimientos técnicos, dotando de protagonismo a partes que anteriormente se querían ocultar.",
+            "industries": [
+                "Electrónica",
+                "Industria de la moda",
+                "Diseño de interiores"
+            ],
+            "trendsetters": [
+                "Apple",
+                "Nike",
+                "Bang & Olufsen",
+                "Fiat"
+            ],
+            "related": [
+                {
+                    "id": "16",
+                    "title": "Subnature"
+                },
+                {
+                    "id": "44",
+                    "title": "Speckled"
+                },
+                {
+                    "id": "59",
+                    "title": "Biophilia"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "24",
+            "title": "Fluency",
+            "image": "./img/24-fluency.jpg",
+            "description": "Fluency se inspira en estos movimientos, para adaptarlo a la forma y estética de los productos. Amplias continuidades de curvatura, imitación a las corrientes de agua, o el mimetismo son algunos de los conceptos que más veces aparecen representados. Esta tendencia ha tenido precursores como Ross Lovegrove, en algunos de los trabajos en los que se inspira en comportamientos líquidos, o Karim Rashid en su visión más futurista. Los productos que siguen esta tendencia tienen una cualidad estimulante para las personas, probablemente debida a la estrecha relación del ser humano con la morfología curva y aleatoria de la naturaleza.",
+            "industries": [
+                "Packaging",
+                "Iluminación",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Ross Lovegrove",
+                "Karim Rashid",
+                "Bugatti EB",
+                "Issey Miyake"
+            ],
+            "related": [
+                {
+                    "id": "10",
+                    "title": "Faceted Fluence"
+                },
+                {
+                    "id": "15",
+                    "title": "Forced Waves"
+                },
+                {
+                    "id": "42",
+                    "title": "Embossed Debossed"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "25",
+            "title": "Demateria",
+            "image": "./img/25-demateria.jpg",
+            "description": "Demateria explora los límites entre lo material y lo inmaterial. Los productos que siguen esta tendencia pierden momentáneamente su forma o evitan su percepción a través de degradados nebulosos, amplias curvaturas o juegos visuales. Esta tendencia encierra aspectos relacionados con el nudismo de algunos productos, y la corriente japonesa de liberación de elementos no relevantes, y el culto al consumible. Materiales novedosos como el Aerogel, compuesto en un porcentaje alto de aire, estimulan la creación de nuevos conceptos en torno a esta tendencia, especialmente en sectores como el de la iluminación, arquitectura y el sector textil.",
+            "industries": [
+                "Industria de la moda",
+                "Iluminación",
+                "Arquitectura"
+            ],
+            "trendsetters": [
+                "Narciso Rodriguez",
+                "COS",
+                "Muji",
+                "Nike"
+            ],
+            "related": [
+                {
+                    "id": "12",
+                    "title": "Total White"
+                },
+                {
+                    "id": "36",
+                    "title": "Freezing"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "26",
+            "title": "Brand Ironies",
+            "image": "./img/26-brand-ironies.jpg",
+            "description": "Las marcas se han convertido en espejos de la personalidad de las personas. Marcas establecidas se permiten arriesgar y juegan con sus consumidores para crear una complicidad, poniendo sus logotipos en productos totalmente diferentes a los que distinguen su actividad. Se trata de una tendencia llena de cinismo y fetichismo hacia el lujo, las ediciones limitadas y lo inaccesible. Además de las anteriores características, la tendencia Brand Ironies abre la puerta a colaboraciones interesantes entre empresas de diferentes sectores, y por qué no, a testear la acogida de las colaboraciones antes de introducirse en mercados totalmente disruptivos.",
+            "industries": [
+                "Artículos de lujo",
+                "Industria automotriz",
+                "Industria deportiva"
+            ],
+            "trendsetters": [
+                "Moschino",
+                "Louis Vuitton",
+                "Chanel",
+                "McDonald's"
+            ],
+            "related": [
+                {
+                    "id": "09",
+                    "title": "Material Confussion"
+                },
+                {
+                    "id": "34",
+                    "title": "Make It Understandable"
+                },
+                {
+                    "id": "43",
+                    "title": "Brandalism"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "27",
+            "title": "Desequilibrium",
+            "image": "./img/27-desequilibrium.jpg",
+            "description": "Productos y gráficas que tratan de buscar juegos de equilibrios imposibles. En los procesos de creación de estos nuevos conceptos se dejan a un lado los valores asumidos de los mismos, llegando a provocar disfuncionalidades o inutilidad en los mismos. Curiosamente, también se descubren funciones muy diferentes a las habituales, obteniendo productos realmente innovadores: nuevas posturas en mobiliario, estructuras inviables, etc. Podría tratarse de un ejercicio creativo “Out of the box” llevado hasta el desarrollo final de producto. Predomina el uso de estructuras metálicas soldadas, que por sus cualidades físicas, son ideales para provocar estos efectos contrarios a la gravedad.",
+            "industries": [
+                "Mobiliario",
+                "Diseño gráfico",
+                "Joyas y accesorios"
+            ],
+            "trendsetters": [
+                "Ettore Sottsass",
+                "Kartell",
+                "Tokujin Yoshioka",
+                "Artemide"
+            ],
+            "related": [
+                {
+                    "id": "20",
+                    "title": "Torsion"
+                },
+                {
+                    "id": "38",
+                    "title": "New Memphis"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "28",
+            "title": "Black & Copper",
+            "image": "./img/28-black-and-copper.jpg",
+            "description": "Black & Copper es una apuesta exitosa de la empresa Peugeot en el uso conjunto del color negro y el cobre. La mayor cualidad de esta tendencia es el haber convertido un material con aplicaciones habituales en productos artesanales, en vanguardista, industrial, técnico y masculino. La apuesta de la empresa Peugeot o diseñadores como Tom Dixon, ha inspirado a empresas habitualmente con más capacidad de ser “Trendsetters” en su sector, como NIXON, reforzando la tendencia y llevándola a muchas industrias.",
+            "industries": [
+                "Electrónica",
+                "Iluminación",
+                "Equipamiento doméstico"
+            ],
+            "trendsetters": [
+                "Tom Dixon",
+                "Nixon",
+                "Peugeot",
+                "Smeg"
+            ],
+            "related": [
+                {
+                    "id": "12",
+                    "title": "Total White"
+                },
+                {
+                    "id": "14",
+                    "title": "Golden Luxury"
+                },
+                {
+                    "id": "18",
+                    "title": "Burning Disruption"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "29",
+            "title": "Pompeian Tiles",
+            "image": "./img/29-pompeian-tiles.jpg",
+            "description": "Lo verdaderamente significativo de esta tendencia es conocer su epicentro: Italia. En varias composiciones bajo las cenizas del Vesubio en Pompeya, y en suelos de iglesias como Santa Maria Della Salute, Venecia, se halla esta composición de efecto tridimensional, que más tarde reprodujo Escher. Es interesante comprobar cómo un recurso gráfico histórico se utiliza en la actualidad para representar tecnología vanguardista, demostrando el carácter cíclico de las tendencias.<br><br>Los pioneros en la reinterpretación de la tendencia han sido las empresas de revestimientos cerámicos, pero rápidamente se ha extendido al mobiliario, interiorismo y electrónica.",
+            "industries": [
+                "Cerámica",
+                "Mobiliario",
+                "Diseño de interiores"
+            ],
+            "trendsetters": [
+                "Hermès Paris",
+                "Microsoft",
+                "Bugatti EB",
+                "Nike"
+            ],
+            "related": [
+                {
+                    "id": "01",
+                    "title": "Geometric"
+                },
+                {
+                    "id": "13",
+                    "title": "Heritagism"
+                },
+                {
+                    "id": "21",
+                    "title": "Haptic"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "30",
+            "title": "Flooding",
+            "image": "./img/30-flooding.jpg",
+            "description": "Flooding disrumpe completamente en la estética de un producto, convirtiéndose en un cambio brusco de color, textura o material a una cota determinada, como si el producto hubiese estado sumergido. Por esta razón, se enfrentan colores, que no necesariamente casan con los cánones estéticos de combinación de color. Lo significativo de la tendencia gráfica es que con el cambio de color, no se resaltan características del producto, sino que se aporta una nueva percepción estética del significado de vanguardia y novedad. La tendencia, por tanto, es recurrente para aquellos sectores que trabajan la creación de productos en mercados notablemente saturados.",
+            "industries": [
+                "Industria deportiva",
+                "Mobiliario",
+                "Equipamiento doméstico"
+            ],
+            "trendsetters": [
+                "The North Face",
+                "Eastpak",
+                "Peugeot",
+                "Nike"
+            ],
+            "related": [
+                {
+                    "id": "04",
+                    "title": "Anverse Reverse"
+                },
+                {
+                    "id": "22",
+                    "title": "Gradient Mass"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "31",
+            "title": "Marblefication",
+            "image": "./img/31-marblefication.jpg",
+            "description": "El mármol es una roca metamórfica compacta formada a partir de rocas calizas. Su uso histórico destacó en la antigua Roma, para construir templos y estatuas como referencia a los dioses y la divinidad. Se observa la repetición de patrones que imitan el mármol, aplicados en productos cotidianos pero que hablan del estilo de vida de las personas, de forma que se iconizan piezas y se elevan a la categoría de culto.<br><br>Es muy interesante observar cómo la tendencia marblefication contradice todas las predicciones futuristas sobre las estéticas contemporáneas de los productos tecnológicos.",
+            "industries": [
+                "Industria deportiva",
+                "Industria de la moda",
+                "Piezas icónicas"
+            ],
+            "trendsetters": [
+                "H&M",
+                "S'well",
+                "Alexander Wang",
+                "Nike"
+            ],
+            "related": [
+                {
+                    "id": "13",
+                    "title": "Heritagism"
+                },
+                {
+                    "id": "18",
+                    "title": "Burning Disruption"
+                },
+                {
+                    "id": "39",
+                    "title": "Anachronism"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "32",
+            "title": "Monochrome",
+            "image": "./img/32-monochrome.jpg",
+            "description": "Wes Anderson ha inspirado a muchas industrias en el uso del color de una forma bíblica, respetando una paleta única y acotada, para jugar con las texturas y los detalles. En la tendencia se usan tonos lánguidos e invernales comunes en los productos nórdicos como Vifa o Kvadrat.<br><br>Monochrome es una interpretación de la cultura y estética pop, pero que se adapta a un tiempo más deprimido y falto de intimidad.",
+            "industries": [
+                "Sector audiovisual",
+                "Equipamiento doméstico",
+                "Fotografía"
+            ],
+            "trendsetters": [
+                "Vifa",
+                "Kvadrat",
+                "Wes Anderson",
+                "Uniform Wares"
+            ],
+            "related": [
+                {
+                    "id": "22",
+                    "title": "Gradient Mass"
+                },
+                {
+                    "id": "40",
+                    "title": "Millennial Pink"
+                },
+                {
+                    "id": "50",
+                    "title": "Z's Yellow"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "33",
+            "title": "Outlined",
+            "image": "./img/33-outlined.jpg",
+            "description": "Outlined nos lleva a un escenario bidimensional jugando con los límites de los productos y dibujando fronteras inexistentes en los espacios. Así, parece trasladarnos a una dimensión divertida y fantasiosa de dibujos animados y cómics.<br><br>El recurso outlined es muy interesante para mostrar formas complejas en los productos, sin su relleno, ganando sutileza, ligereza y una atmósfera infantil sin necesidad de un uso excesivo del color.",
+            "industries": [
+                "Mobiliario",
+                "Industria de la moda",
+                "Arquitectura"
+            ],
+            "trendsetters": [
+                "RAW",
+                "Edward Cuming",
+                "Nendo",
+                "JumpFromPaper"
+            ],
+            "related": [
+                {
+                    "id": "30",
+                    "title": "Flooding"
+                },
+                {
+                    "id": "54",
+                    "title": "Work in Progress"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "34",
+            "title": "Make It Understandable",
+            "image": "./img/34-make-it-understandable.jpg",
+            "description": "En Make it Understable el propio producto se comunica directamente con el consumidor, sin rodeos. Las especificaciones sobre el uso, las necesidades que cubre o incluso mensajes activistas a través de fuertes tipografías en contraste, hacen que el consumidor conecte con los valores de marca o el propósito de la empresa.<br><br>Este juego de personificación en los productos, les desprende del contenido de marca en favor de un tono de voz honesto y una identidad muy poderosa, algo que agradecen los consumidores en mercados saturados como el del retail.",
+            "industries": [
+                "Packaging",
+                "Retail",
+                "Industria alimentaria"
+            ],
+            "trendsetters": [
+                "Eighthirty",
+                "Portland",
+                "Berlin",
+                "Help Remedies"
+            ],
+            "related": [
+                {
+                    "id": "26",
+                    "title": "Brand Ironies"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "35",
+            "title": "Order Obsession",
+            "image": "./img/35-order-obsession.jpg",
+            "description": "Order Obsession es una tendencia altamente restrictiva que ha ido evolucionando desde principios de los años 70, hasta encontrar un nuevo despunte en la actualidad. Se reivindica que cada producto tiene su espacio, contexto y familia propios, y que deben respetarse de forma obsesiva a través de compartimentos ajustados milimétricamente a cada diseño.<br><br>Es interesante como la tendencia transforma etapas anteriores más racionalistas en términos aún más teóricos como la ergonomía visual, y el orden como norma.",
+            "industries": [
+                "Joyas y accesorios",
+                "Mobiliario",
+                "Industria automotriz"
+            ],
+            "trendsetters": [
+                "Vitra",
+                "IKEA",
+                "Volvo",
+                "Normann Copenhagen"
+            ],
+            "related": [
+                {
+                    "id": "07",
+                    "title": "Modularity"
+                },
+                {
+                    "id": "25",
+                    "title": "Demateria"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "36",
+            "title": "Freezing",
+            "image": "./img/36-freezing.jpg",
+            "description": "Freezing nos transporta a un mundo glaciar, donde los productos parecen conservados en bloques helados, o haber sufrido condiciones climatológicas extremas. Los gradientes y desgastados propios del hielo desdibujan el contenido de los productos. Así, se transforman productos contundentes y macizos en líquidos y ligeros visualmente, añadiéndoles una percepción futurista, como ya hizo Harri Koskinen con la iconizada Block Lamp.",
+            "industries": [
+                "Iluminación",
+                "Packaging",
+                "Diseño gráfico"
+            ],
+            "trendsetters": [
+                "COS",
+                "Elie Saab",
+                "Chanel",
+                "Design House Stockholm"
+            ],
+            "related": [
+                {
+                    "id": "18",
+                    "title": "Burning Disruption"
+                },
+                {
+                    "id": "22",
+                    "title": "Gradient Mass"
+                },
+                {
+                    "id": "48",
+                    "title": "Dichroic"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "37",
+            "title": "Sewing",
+            "image": "./img/37-sewing.jpg",
+            "description": "Superponer patrones lineales, solapar capas en productos o dar importancia a las fracturas en los mismos, son las características principales de la tendencia Sewing.<br><br>Podría significar una reinterpretación tecnológica del arte japonés Kintsukuroi, que habla del honor a la belleza de lo imperfecto. Sewing se diferencia como un recurso para ensalzar las formas, restar importancia a las continuidades perfectas, y mostrar los entramados que componen los productos. Un recurso utilizado por marcas deportivas como Nike o Adidas, para comunicar la sostenibilidad y tecnología de sus materiales.",
+            "industries": [
+                "Industria deportiva",
+                "Mobiliario",
+                "Diseño gráfico"
+            ],
+            "trendsetters": [
+                "Nike",
+                "Febrik",
+                "Renault",
+                "GAN"
+            ],
+            "related": [
+                {
+                    "id": "02",
+                    "title": "Faceted"
+                },
+                {
+                    "id": "33",
+                    "title": "Outlined"
+                },
+                {
+                    "id": "54",
+                    "title": "Work in Progress"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "38",
+            "title": "New Memphis",
+            "image": "./img/38-new-memphis.jpg",
+            "description": "Los diseños Memphis, nacieron como cultura pop en los años 80, con el objetivo de retar las formas ortodoxas de los objetos, gráficas y uso de materiales. Se ha recuperado de forma expansiva, rescatando los contrastes y patrones gráficos típicos del movimiento, en nuevas áreas como la arquitectura, el diseño web o la moda. Uno de los grandes propósitos de esta tendencia es la búsqueda de un efecto “hype” en el lanzamiento de productos, por lo que podría tratarse de una de las tendencias con un ciclo más corto de las que hemos estudiado y más rápida en su evolución temporal. Un recuerdo positivista, pop y anárquico en una época estéticamente muy conservadora.",
+            "industries": [
+                "Diseño gráfico",
+                "Artículos de lujo",
+                "Joyas y accesorios"
+            ],
+            "trendsetters": [
+                "Ettore Sottsass",
+                "David Delfín",
+                "Pactimo",
+                "Kenzo"
+            ],
+            "related": [
+                {
+                    "id": "21",
+                    "title": "Haptic"
+                },
+                {
+                    "id": "27",
+                    "title": "Desequilibrium"
+                },
+                {
+                    "id": "47",
+                    "title": "Terrazzo"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "39",
+            "title": "Anachronism",
+            "image": "./img/39-anachronism.jpg",
+            "description": "Llevar a las marcas y sus productos, a un escenario donde aún no existían, ha creado potentes imágenes descontextualizadas. Anachronism ha convertido las artes pictóricas más figurativas de siglos anteriores en las perfectas texturas de productos contemporáneos y urbanos. El artista Banksy ha logrado dar un valor de patrimonio histórico a marcas, productos e iconos actuales, al igual que consiguió Warhol años atrás. Varias marcas han continuado este lenguaje que parte desde el arte urbano, generando productos con una gran sensibilidad estética y recuperando procesos artesanales tradicionales. Un collage temporal que llama inevitablemente nuestra atención.",
+            "industries": [
+                "Mobiliario",
+                "Packaging",
+                "Industria de la moda"
+            ],
+            "trendsetters": [
+                "Banksy",
+                "Moroso",
+                "Smeg",
+                "Gucci"
+            ],
+            "related": [
+                {
+                    "id": "13",
+                    "title": "Heritagism"
+                },
+                {
+                    "id": "31",
+                    "title": "Marblefication"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "40",
+            "title": "Millennial Pink",
+            "image": "./img/40-millennial-pink.jpg",
+            "description": "El uso masificado de un color específico que representa un estado anímico, tiñendo todo a su paso y creando un escenario monocromático que lo inunda todo. “La vie en rose” podría ser el perfecto claim para una generación de consumidores que ha elegido un tono naif y desalentado para proyectarlo como el más representativo de su personalidad. <br><br> Las estéticas calculadas de Wes Anderson, la arquitectura de Ricardo Bofill o nuevas apuestas como el Rose Gold iPhone en 2015, han inspirado a marcas a adoptar este tono para acercarse a un público muy notorio en redes sociales. Un icono de una generación que desdibuja las barreras del género.",
+            "industries": [
+                "Diseño de interiores",
+                "Joyas y accesorios",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Wes Anderson",
+                "Apple",
+                "Ricardo Bofill",
+                "Adidas"
+            ],
+            "related": [
+                {
+                    "id": "12",
+                    "title": "Total White"
+                },
+                {
+                    "id": "32",
+                    "title": "Monochrome"
+                },
+                {
+                    "id": "50",
+                    "title": "Z's Yellow"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "41",
+            "title": "Afrikart",
+            "image": "./img/41-afrikart.jpg",
+            "description": "África es, en la actualidad, una de las fuentes de inspiración más poderosas. Empresas y marcas que tradicionalmente han mantenido líneas editoriales sobrias y nórdicas, como HAY o IKEA, han dejado atrás esas estéticas para rendirse al uso de gráficas étnicas, patrones irregulares y contrastes energéticos. No se trata simplemente de una nueva corriente estética, sino de la adopción de códigos y características de diversas tribus como un símbolo de diversidad e identidad. Este movimiento representa un cambio drástico en la fuente de inspiración, alejándose de territorios anteriormente dominantes, y abrazando una búsqueda de productos con más personalidad y origen.",
+            "industries": [
+                "Mobiliario",
+                "Joyas y accesorios",
+                "Artículos de lujo"
+            ],
+            "trendsetters": [
+                "IKEA",
+                "Afriek",
+                "HAY",
+                "Balmain"
+            ],
+            "related": [
+                {
+                    "id": "38",
+                    "title": "New Memphis"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "42",
+            "title": "Embossed Debossed",
+            "image": "./img/42-embossed-debossed.jpg",
+            "description": "La sutilidad y el erotismo de la forma son las principales características de una tendencia que elige meticulosamente qué enseñar y qué ocultar. Como resultado, productos, decoraciones y arquitecturas hechas para personas sofisticadas y “lovemarkers” (enamorados de las marcas).<br><br>La tendencia nos aporta capacidades muy interesantes, como la de integrar los productos en sus superficies de apoyo. A través de grandes tangencias en la forma, se desdibujan los límites y se generan entornos sinuosos que despiertan nuestro tacto.",
+            "industries": [
+                "Industria de la moda",
+                "Packaging",
+                "Joyas y accesorios"
+            ],
+            "trendsetters": [
+                "Gucci",
+                "Versace",
+                "Lacoste",
+                "Yves Béhar"
+            ],
+            "related": [
+                {
+                    "id": "21",
+                    "title": "Haptic"
+                },
+                {
+                    "id": "33",
+                    "title": "Outlined"
+                },
+                {
+                    "id": "46",
+                    "title": "Booleans"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "43",
+            "title": "Brandalism",
+            "image": "./img/43-brandalism.jpg",
+            "description": "Las marcas han pasado de hablar con sus consumidores a ser parte de su activismo, incluso de una forma radical. Esta tendencia ha recuperado estéticas de la época grunge de los años 90 y recursos gráficos urbanos de Basquiat.<br><br>Llama la atención cómo, a raíz de los movimientos sociales de protesta que han surgido a nivel mundial, incluso marcas tradicionalmente alejadas de discursos extremistas se suman a un tono belicista, o se alinean con marcas urbanas como Supreme para ganarse nuevos adeptos.",
+            "industries": [
+                "Artículos de lujo",
+                "Industria de la moda",
+                "Arte"
+            ],
+            "trendsetters": [
+                "Supreme",
+                "Chanel",
+                "Comme Des Garçons",
+                "Nike"
+            ],
+            "related": [
+                {
+                    "id": "26",
+                    "title": "Brand Ironies"
+                },
+                {
+                    "id": "34",
+                    "title": "Make It Understandable"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "44",
+            "title": "Speckled",
+            "image": "./img/44-speckled.jpg",
+            "description": "La masificación de materiales plásticos reciclados en los productos, ha hecho que percibamos la heterogeneidad de las composiciones como un recurso muy interesante.<br><br>En la tendencia “Speckled” se observan colores salpicados sutilmente por superficies, aportando calidez a los productos, y evocando artesanía. Marcas como HAY o KVADRAT apuestan por estas decoraciones, llegando a imitar en ocasiones texturas de la naturaleza como las piedras o arenas.",
+            "industries": [
+                "Diseño gráfico",
+                "Mobiliario",
+                "Industria deportiva"
+            ],
+            "trendsetters": [
+                "Nike",
+                "Lapka",
+                "HAY",
+                "Febrik"
+            ],
+            "related": [
+                {
+                    "id": "22",
+                    "title": "Gradient Mass"
+                },
+                {
+                    "id": "23",
+                    "title": "Dots"
+                },
+                {
+                    "id": "36",
+                    "title": "Freezing"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "45",
+            "title": "Agender",
+            "image": "./img/45-agender.jpg",
+            "description": "La generación Z (1995-2010) han sido pioneros en exigir en los productos de consumo la ruptura del rol de género. Esto ha provocado que las marcas necesiten encontrar un nuevo terreno neutral e inclusivo que llegue a ambos indistintamente. Así, se han creado nuevas estéticas, gamas y categorías en mercados históricamente muy estereotipados como la cosmética o la moda, muy arraigados al target femenino, o los sectores deportivos y de automoción, dirigidos al masculino.<br><br>Un acercamiento, que sin embargo reivindica más que nunca la identidad, y se sirve de usos alternativos del color, para mostrar nuestros prejuicios y abrir debates.",
+            "industries": [
+                "Industria de la moda",
+                "Packaging",
+                "Joyas y accesorios"
+            ],
+            "trendsetters": [
+                "Acne Studios",
+                "Aesop",
+                "Rad Hourani",
+                "Selfridges & Co"
+            ],
+            "related": [
+                {
+                    "id": "25",
+                    "title": "Demateria"
+                },
+                {
+                    "id": "32",
+                    "title": "Monochrome"
+                },
+                {
+                    "id": "40",
+                    "title": "Millennial Pink"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "46",
+            "title": "Booleans",
+            "image": "./img/46-booleans.jpg",
+            "description": "Booleans es una tendencia que juega con la eliminación del elemento principal, en favor de los detalles más superfluos. A través de este recurso, importado desde la publicidad, hacia la arquitectura y diseño, se pretende que el espectador finalice la composición, o tome parte activa en la interpretación de los productos.<br><br>Morfológicamente, se utiliza esta tendencia para romper diseños monolíticos mostrando un interior radicalmente opuesto a su fachada. Un recurso que tiene mucha relación con la tendencia #04 Anverse Reverse.",
+            "industries": [
+                "Diseño gráfico",
+                "Arquitectura",
+                "Arte"
+            ],
+            "trendsetters": [
+                "Anish Kapoor",
+                "Bauhaus",
+                "Joel Escalona",
+                "Malika Favre"
+            ],
+            "related": [
+                {
+                    "id": "04",
+                    "title": "Anverse Reverse"
+                },
+                {
+                    "id": "21",
+                    "title": "Haptic"
+                },
+                {
+                    "id": "42",
+                    "title": "Embossed Debossed"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "47",
+            "title": "Terrazzo",
+            "image": "./img/47-terrazzo.jpg",
+            "description": "El diseñador Max Lamb ha recuperado y llevado a un nuevo estatus, la textura irregular y heterogénea del Terrazo veneciano, típica en el movimiento obrero de la segunda mitad del Siglo XX por las propiedades de dureza, buen mantenimiento y reaprovechamiento de sobrantes. <br><br> Este material, auténticamente mediterráneo, se propone con mezclas y cromatismos especialmente cuidados, por eso se convierten en un patrón estéticamente atractivo para varios formatos como revestimientos, complementos de hogar, joyería, papelería.",
+            "industries": [
+                "Joyas y accesorios",
+                "Diseño de interiores",
+                "Industria de la moda"
+            ],
+            "trendsetters": [
+                "Acne Studios",
+                "Normann Copenhagen",
+                "Max Lamb",
+                "Shiro Kuramata"
+            ],
+            "related": [
+                {
+                    "id": "31",
+                    "title": "Marblefication"
+                },
+                {
+                    "id": "44",
+                    "title": "Speckled"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "48",
+            "title": "Dichroic",
+            "image": "./img/48-dichroic.jpg",
+            "description": "Movimientos de diseño que se inspiran en las formas de la naturaleza como “Biomimicry”, han hecho que se explore el uso de texturas iridiscentes y dicroicas propias de la superficie de insectos. Este efecto basado en los cambios cromáticos según el ángulo de incidencia de la luz, estaba presente en varias obras de Gehry, pero estaba restringido por el alto coste de los procesos superficiales aplicados a metales para lograrlo, por ello, empresas especialistas en revestimientos como 3M con su producto 3MTM DichroicTM han posibilitado una adopción rápida por parte de arquitectos y diseñadores como Patricia Urquiola o Elise Luttik logrando productos y espacios mágicos.",
+            "industries": [
+                "Iluminación",
+                "Packaging",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Frank Gehry",
+                "Patricia Urquiola",
+                "3M",
+                "Elise Luttik"
+            ],
+            "related": [
+                {
+                    "id": "03",
+                    "title": "Natural Pattern"
+                },
+                {
+                    "id": "36",
+                    "title": "Freezing"
+                },
+                {
+                    "id": "53",
+                    "title": "Inflatable"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "49",
+            "title": "Concepts",
+            "image": "./img/49-concepts.jpg",
+            "description": "La velocidad de las tendencias en muchos mercados ha generado la revolución de los Concepts, tradicionalmente desarrollados con el propósito de trasladar visiones futuras de marca y sin propósito de industrialización, ni condicionantes de mercado. Esta vez, los agentes más disruptivos las llevan hasta el consumidor final, como forma de provocación.<br><br>Estamos empezando a producir productos para un rol diferente a los consumidores: los espectadores. Ansiosos de contenido e inspiración visual, quieren vincularse con las marcas e incorporarlas a su lifestyle siendo parte de la visión de las mismas.",
+            "industries": [
+                "Packaging",
+                "Industria automotriz",
+                "Industria de la moda"
+            ],
+            "trendsetters": [
+                "BMW",
+                "Balenciaga",
+                "Jay-Z",
+                "Design Academy Eindhoven"
+            ],
+            "related": [
+                {
+                    "id": "26",
+                    "title": "Brand Ironies"
+                },
+                {
+                    "id": "39",
+                    "title": "Anachronism"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "50",
+            "title": "Z's Yellow",
+            "image": "./img/50-zs-yellow.jpg",
+            "description": "Como observamos en la #40 Millennial Pink, las nuevas generaciones se adueñan del significado de un color para abanderar una nueva identidad y estilo de vida. El arrollante optimismo y notoriedad del amarillo Snapchat es defendido por los Z (1994-2010) acompañado de un discurso Punk y alejado de la nostalgia y victimismo Millennial.<br><br>Z's Yellow es aplicable a prácticamente cualquier formato que quiera acercarse a un nuevo target, con la condición de acompañarlos en su exposición total, activismo pacifista y un lenguaje único y desconocido para todos los demás.",
+            "industries": [
+                "Industria de la moda",
+                "Accesorios de viaje",
+                "Electrónica"
+            ],
+            "trendsetters": [
+                "Apple",
+                "Beyoncé",
+                "Instagram",
+                "Chanel"
+            ],
+            "related": [
+                {
+                    "id": "32",
+                    "title": "Monochrome"
+                },
+                {
+                    "id": "40",
+                    "title": "Millennial Pink"
+                },
+                {
+                    "id": "45",
+                    "title": "Agender"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "51",
+            "title": "Apocalypsis",
+            "image": "./img/51-apocalypsis.jpg",
+            "description": "Los códigos estéticos relacionados con la sostenibilidad han cambiado significativamente. La naturaleza virgen, ahora aparece desolada por el ser humano en escenarios Sci-Fi. En una tendencia proveniente de países asiáticos, los productos se presentan con una identidad futurista, misteriosa y brutalista, que nos hace reflexionar y obliga a tomar partido en la problemática actual. Materiales metálicos, diseños robustos, y el upcycling (aumentar el valor de materias primas desechadas) son tres de los códigos estéticos más repetidos para provocar a los consumidores, hacerles testigos de las consecuencias y ayudarles a tomar decisiones más responsables.",
+            "industries": [
+                "Industria deportiva",
+                "Industria automotriz",
+                "Industria de la moda"
+            ],
+            "trendsetters": [
+                "Aitor Throup",
+                "Y-3",
+                "Nike",
+                "Converse"
+            ],
+            "related": [
+                {
+                    "id": "36",
+                    "title": "Freezing"
+                },
+                {
+                    "id": "53",
+                    "title": "Inflatable"
+                },
+                {
+                    "id": "60",
+                    "title": "Augmented Humans"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "52",
+            "title": "Material Conversations",
+            "image": "./img/52-material-conversations.jpg",
+            "description": "Las nuevas artesanías, prestan una especial atención a las texturas de los materiales y la convivencia entre ellos. Se observan cada vez más productos y espacios creados como homenaje a los materiales, estableciendo una relación semántica entre los mismos y con los propios productos o espacios que los contienen.<br><br>Pureza, honestidad en la selección y textura son las principales propiedades de una tendencia que nos convierte en coleccionistas de materiales.",
+            "industries": [
+                "Mobiliario",
+                "Arquitectura",
+                "Joyas y accesorios"
+            ],
+            "trendsetters": [
+                "Jaime Hayon",
+                "Marc Newson",
+                "Ettore Sottsass",
+                "Jeonghwa Seo"
+            ],
+            "related": [
+                {
+                    "id": "09",
+                    "title": "Material Confussion"
+                },
+                {
+                    "id": "38",
+                    "title": "New Memphis"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "53",
+            "title": "Inflatable",
+            "image": "./img/53-inflatable.jpg",
+            "description": "La tendencia nacida en los años 90 de los productos Blobject, que se distinguían por la ausencia de aristas marcadas, bright colors y curvas smooth, se convirtió incluso en ADN de diseñadores como Karim Rashid, Marc Newson o Steven Skov Holt.<br><br>Blobjects ahora se reinventa sin recrear superficies rígidas curvilíneas sino haciendo que los productos y arquitecturas sean inflables y se pueda jugar con diferentes volúmenes en los mismos. La interacción persona-producto-espacio cobra mucha importancia en una tendencia que nos quiere adentrar en un mundo más ligero, etéreo y efímero.",
+            "industries": [
+                "Arquitectura",
+                "Industria de la moda",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Michiko Koshino",
+                "Heimplanet",
+                "Quasar Khanh",
+                "Karim Rashid"
+            ],
+            "related": [
+                {
+                    "id": "08",
+                    "title": "Re-Braun"
+                },
+                {
+                    "id": "25",
+                    "title": "Demateria"
+                },
+                {
+                    "id": "51",
+                    "title": "Apocalypsis"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "54",
+            "title": "Work in Progress",
+            "image": "./img/54-work-in-progress.jpg",
+            "description": "Work In progress saca a la superficie los procesos de creación de un producto, dando una entidad mayor al autor y su proceso. Volver al taller de fabricación y recuperar sobrantes, es un storytelling atractivo para crear y defender piezas inacabadas o defectuosas, pero únicas al fin y al cabo.<br><br>Siguiendo la estela del Art brut, donde se creaba al margen de los parámetros artísticos o profesionales establecidos, WIP vuelve a cambiar la concepción de que lo acabado y perfecto puede resultar monótono.",
+            "industries": [
+                "Mobiliario",
+                "Industria de la moda",
+                "Piezas icónicas"
+            ],
+            "trendsetters": [
+                "Acne Studios",
+                "RAW",
+                "Patricia Urquiola",
+                "JW Anderson"
+            ],
+            "related": [
+                {
+                    "id": "33",
+                    "title": "Outlined"
+                },
+                {
+                    "id": "37",
+                    "title": "Sewing"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "55",
+            "title": "Growing Materials",
+            "image": "./img/55-growing-materials.jpg",
+            "description": "Mundialmente están surgiendo nuevas iniciativas basadas en el bioactivismo que apuestan por la búsqueda en la naturaleza de materias primas sostenibles. Las investigaciones se centran en buscar nuevos materiales como los bioplásticos o nuevos orgánicos, capaces de degradarse al final de su vida útil. Uso de nuevas materias orgánicas como el Piñatex® o los sustratos de hongos para generar envases y embalajes.<br><br>Cada vez más, la economía circular será el marco de trabajo de diferentes industrias, y el compostaje será el punto de partida para el diseño de nuevos productos.",
+            "industries": [
+                "Packaging",
+                "Industria de la moda",
+                "Bienes de consumo"
+            ],
+            "trendsetters": [
+                "IKEA",
+                "Piñatex",
+                "H&M",
+                "Haeckels"
+            ],
+            "related": [
+                {
+                    "id": "16",
+                    "title": "Subnature"
+                },
+                {
+                    "id": "25",
+                    "title": "Demateria"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "56",
+            "title": "Glitch Effect",
+            "image": "./img/56-glitch-effect.jpg",
+            "description": "Hace unas décadas, estaba prohibido mostrar frente a la cámara patrones lineales superpuestos, porque producían en efecto de distorsión. En una era totalmente digitalizada y de gran resolución, nos produce nostalgia recrear esas distorsiones visuales, el colapso de la señal o incluso la censura de la red.<br><br>Se observan muchas referencias que trasladan este efecto Glitch a textiles, diseño gráfico o incluso formatos audiovisuales, que consiguen retener nuestra atención.",
+            "industries": [
+                "Joyas y accesorios",
+                "Diseño gráfico",
+                "Industria deportiva"
+            ],
+            "trendsetters": [
+                "Issey Miyake",
+                "Felipe Pantone",
+                "Ara Swiss",
+                "Jesus Rafael Soto"
+            ],
+            "related": [
+                {
+                    "id": "29",
+                    "title": "Pompeian Tiles"
+                },
+                {
+                    "id": "37",
+                    "title": "Sewing"
+                },
+                {
+                    "id": "48",
+                    "title": "Dichroic"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "57",
+            "title": "Nice Surrealism",
+            "image": "./img/57-nice-surrealism.jpg",
+            "description": "El comienzo de los años 20 ha resucitado imaginarios surrealistas de hace un siglo, con Salvador Dalí o Elsa Schiaparelli como principales iconos. Esta tendencia ha cobrado fuerza en países asiáticos como Japón o Corea y ha encontrado iconos modernos en diferentes ámbitos como la moda, el diseño de producto o el arte.<br><br>Cada vez se encuentran más referencias que estén a mitad de camino entre el objeto de culto y la extravagancia o el exceso. Convertir lo cotidiano en el Art Toy.",
+            "industries": [
+                "Diseño de interiores",
+                "Joyas y accesorios",
+                "Arte"
+            ],
+            "trendsetters": [
+                "Salvador Dalí",
+                "Schiaparelli",
+                "Marcel Wanders",
+                "Gucci"
+            ],
+            "related": [
+                {
+                    "id": "27",
+                    "title": "Desequilibrium"
+                },
+                {
+                    "id": "39",
+                    "title": "Anachronism"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "58",
+            "title": "Heatmap",
+            "image": "./img/58-heatmap.jpg",
+            "description": "Habitualmente se usa la representación de grandes volúmenes de datos en mapas de calor, mostrando de forma rápida dónde se sitúan los principales focos del estudio.<br><br>Nos encontramos este efecto psicodélico de gradiente en gráficas de productos, destacando diferencias de temperatura en la superficie. HeatMap puede ayudar a centrar la atención en los elementos prioritarios del producto, o simplemente generar una estética más humana de lo digital o viceversa.",
+            "industries": [
+                "Diseño gráfico",
+                "Industria de la moda",
+                "Mobiliario"
+            ],
+            "trendsetters": [
+                "Virgil Abloh",
+                "Nike",
+                "Orijeen",
+                "Eye Tracking Apps"
+            ],
+            "related": [
+                {
+                    "id": "18",
+                    "title": "Burning Disruption"
+                },
+                {
+                    "id": "22",
+                    "title": "Gradient Mass"
+                },
+                {
+                    "id": "36",
+                    "title": "Freezing"
+                }
+            ],
+            "graphType": "cmf-trend"
+        },
+        {
+            "id": "59",
+            "title": "Biophilia",
+            "image": "./img/59-biophilia.jpg",
+            "description": "Supone estudiar el modo en el que la naturaleza ha resuelto problemáticas por la propia evolución y trasladarlo a la creación de nuevos productos y tecnologías.<br><br>Diseñadoras como Iris Van Herpen o Lilian Van Daal admiran los procesos naturales y crean diseños que parecen surgir de la propia naturaleza más que por la manufactura humana. La protección contra impactos de algunos insectos, la volatilidad de las esporas o la impermeabilidad de las plantas son sólo algunas de las características naturales que están directamente vinculadas a los requerimientos de diseño de muchas industrias.",
+            "industries": [
+                "Joyas y accesorios",
+                "Mobiliario",
+                "Industria de la moda"
+            ],
+            "trendsetters": [
+                "Iris Van Herpen",
+                "Lilian Van Daal",
+                "Bjork",
+                "Synthesis Design"
+            ],
+            "related": [
+                {
+                    "id": "03",
+                    "title": "Natural Pattern"
+                },
+                {
+                    "id": "16",
+                    "title": "Subnature"
+                },
+                {
+                    "id": "19",
+                    "title": "Biomateria"
+                }
+            ],
+            "graphType": "design-trend"
+        },
+        {
+            "id": "60",
+            "title": "Augmented Humans",
+            "image": "./img/60-augmented-humans.jpg",
+            "description": "La ciencia ficción que nos trajo novelas como el Neuromante de W. Gibson, está convirtiéndose en respuestas reales como los exoesqueletos, donde la tecnología genera nuevas capacidades que se humanizan y normalizan rápidamente. Este transhumanismo genera una comunión cada vez más natural entre humanos y máquinas.<br><br>La tecnología se integra en nuestros cuerpos, restando visualmente importancia a la técnica, y generando un nuevo humano interconectado y excepcionalmente sensorial, sin ninguna interfaz física por medio.",
+            "industries": [
+                "Biomecánica",
+                "Electrónica",
+                "Industria de la moda"
+            ],
+            "trendsetters": [
+                "CES",
+                "Yves Béhar",
+                "Google",
+                "University of Chicago"
+            ],
+            "related": [
+                {
+                    "id": "16",
+                    "title": "Subnature"
+                },
+                {
+                    "id": "19",
+                    "title": "Biomateria"
+                },
+                {
+                    "id": "51",
+                    "title": "Apocalypsis"
+                }
+            ],
+            "graphType": "design-trend"
+        }
+    ]
+} 
